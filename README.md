@@ -11,15 +11,24 @@ This project analyzes county-level **power outage data** from the **Maryland Ope
 ## **Questions(KPIs)**
 
 -What is the **total number of outages** and **% of customers impacted** across all counties?
+
 -Which county is **worst affected** (highest outages/ % of customers out)?
+
 -How have outages and customer impact **trended over time** (spikes,recoveries)?
+
 -Which **time periods** saw the largest spikes in service disruptions?
+
 -How does **county size(customers served)** relate to outage severity?
+
 -Which counties consistently show **higher outage impact**?
+
 -What is the **correlation between customers served and outage scale**?
+
 -How do outage percentages vary **geographically**(map)?
+
 -Ranking: **Top 5 counties** with highest customer impact.
-**Dashboard** 
+
+**KPI Dashboard** <a href="https://github.com/aagomu1/Power-Outage-Data-Analysis/blob/main/Power_Outage_Data_Analysis_Dashboard.pdf">Dashboard</a> 
 
 ## **Process**
 
