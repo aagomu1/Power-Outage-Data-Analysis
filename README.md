@@ -28,7 +28,6 @@ This project analyzes county-level **power outage data** from the **Maryland Ope
 
 -Ranking: **Top 5 counties** with highest customer impact.
 
-**KPI Dashboard** <a href="https://github.com/aagomu1/Power-Outage-Data-Analysis/blob/main/Power_Outage_Data_Analysis_Dashboard.pdf">Dashboard</a> 
 
 ## **Process**
 
