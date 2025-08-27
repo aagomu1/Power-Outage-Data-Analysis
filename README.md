@@ -64,7 +64,8 @@ This project analyzes county-level **power outage data** from the **Maryland Ope
 
 This project demonstrates how **data driven outage analysis** can be leveraged to support **decision-making for utilities and emergency planners**.
 
-By applying **eexploratory, time-series, and geospatial analysis techniques**, the project:
+By applying **exploratory, time-series, and geospatial analysis techniques**, the project:
+
 -Enables **faster outage response** through monitoring of key KPIs (outages,percent impacted, peak outage windows).
 
 -Provides a framework to **prioritize infrastructure investments** in counties with consistently higher outage rates.
