@@ -33,10 +33,15 @@ This project analyzes county-level **power outage data** from the **Maryland Ope
 ## **Process**
 
 \-**Collected, cleaned, and validated 47k+ outage records** for accuracy.
+
 -**Standardized data types** for outages, customers, and timestamps.
+
 -Conducted **exploratory analysis** and **time-series analysis** to detect **patterns** and **spikes**.
+
 -Built **geospatial, ranking, and correlation visualizations** to uncover **high-risk areas**.
+
 -Designed an interactive **Power BI-Dashboard** with **dynamic filters** and **KPIs** for stakeholders.
+
 
 ## **Dashboard**
 
