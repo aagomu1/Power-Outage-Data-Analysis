@@ -6,7 +6,7 @@ This project analyzes county-level **power outage data** from the **Maryland Ope
 
 ## **Dataset Used**
 
--Maryland Open Data Portal **<a/ href /a> Hyperlink in xlsx form**. This is a link to the xlsx sheet.
+- <a href="https://github.com/aagomu1/Power-Outage-Data-Analysis/blob/main/Power_Outages_-_County_20250826.microsoftexcelworksheet.xlsx">Power Outages County Data</a>
 
 ## **Questions(KPIs)**
 
@@ -19,7 +19,7 @@ This project analyzes county-level **power outage data** from the **Maryland Ope
 -What is the **correlation between customers served and outage scale**?
 -How do outage percentages vary **geographically**(map)?
 -Ranking: **Top 5 counties** with highest customer impact.
-**Dashboard** Dashboard(link)
+**Dashboard** 
 
 ## **Process**
 
