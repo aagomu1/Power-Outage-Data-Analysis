@@ -44,7 +44,7 @@ This project analyzes county-level **power outage data** from the **Maryland Ope
 
 ## **Dashboard**
 
-- <a href= https://github.com/aagomu1/Power-Outage-Data-Analysis/blob/main/Power_Outage_Data_Analysis_Dashboard.pdf>Power Outage by County Data Analysis Dashboard</a>
+- <a href= "https://github.com/aagomu1/Power-Outage-by-County-Data-Analysis/blob/main/Power_Outage_County_Data_Analysis_Dashboard.pdf">Power Outage by County Data Analysis Dashboard</a>
 
 ## **Project Insights**
 
